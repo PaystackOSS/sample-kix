@@ -127,7 +127,7 @@ export default {
       name: "John Doe",
       email: "customer@email.com"
     },
-    PUBLIC_KEY: "pk_test_72dec37c547bfd309db001900a71e97bea6458bf",
+    PUBLIC_KEY: "pk_test_xxxxx",
     cart: [],
     sneakers: [
       {
